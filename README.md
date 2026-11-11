@@ -41,7 +41,7 @@ python3 main.py
 ```text
 Art-Gallery-Manager/
 │
-├── main.py
+├── app.py
 ├── README.md
 ├── .gitignore
 └── gallery.json (created automatically)
